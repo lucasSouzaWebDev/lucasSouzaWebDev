@@ -22,6 +22,7 @@ Busco sempre atualizá-lo com o que estou trabalhando/fazendo no momento, mesmo 
 ## Tecnologias
  ### Front-end
  <div style="display: inline_block">
+ <a href="https://github.com/lucasSouzaWebDev">
   <img align="center" alt="Lucas-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Lucas-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Lucas-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -29,36 +30,45 @@ Busco sempre atualizá-lo com o que estou trabalhando/fazendo no momento, mesmo 
   <img align="center" alt="Lucas-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Lucas-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Lucas-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+ </a>
 </div>
  
  ### Back-end
 <div style="display: inline_block">
+ <a href="https://github.com/lucasSouzaWebDev">
   <img align="center" alt="Lucas-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Lucas-composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
   <img align="center" alt="Lucas-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" alt="Lucas-magento" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" />
   <img align="center" alt="Lucas-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+ </a>
 </div>
  
  ### Ferramentas
  <div style="display: inline_block">
+ <a href="https://github.com/lucasSouzaWebDev">
   <img align="center" alt="Lucas-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Lucas-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Lucas-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Lucas-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Lucas-bitbucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
   <img align="center" alt="Lucas-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  </a>
 </div>
 
 ### Integrações
  <div style="display: inline_block">
+ <a href="https://github.com/lucasSouzaWebDev">
   <img align="center" alt="Lucas-facebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
   <img align="center" alt="Lucas-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+ </a>
 </div>
  
  ### Mobile
  <div style="display: inline_block">
+ <a href="https://github.com/lucasSouzaWebDev">
   <img align="center" alt="Lucas-ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+ </a>
 </div>
 
 ## Contato
