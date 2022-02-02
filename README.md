@@ -3,7 +3,7 @@ Busco sempre atualizá-lo com o que estou trabalhando/fazendo no momento, mesmo 
 ## Dados Pessoais
  - nome: Lucas de Souza;
  - idade: 19 anos;
- - formação: cusando último período Análise e Desenvolvimento de Sistemas - [Uniguairacá](https://guairaca.com.br/);
+ - formação: cursando último período Análise e Desenvolvimento de Sistemas - [Uniguairacá](https://guairaca.com.br/);
  - Trabalho: desenvolvedor back-end no setor de Lojas Virtuais - [K13 Agência Web](https://k13.com.br/);
  - interesse: atualmente tenho mais interesse em projetos com VueJS e Laravel, porém não descartando possibilidade de novas experiências;
  - influência: sempre gostei de dos vários ramos que a área de tecnologia oferece, comecei com manutenção de computadores, até focar 
