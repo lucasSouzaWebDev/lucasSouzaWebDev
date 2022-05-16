@@ -6,7 +6,7 @@ Busco sempre atualizá-lo com o que estou trabalhando/fazendo no momento, mesmo 
  - formação: cursando último período Análise e Desenvolvimento de Sistemas - [Uniguairacá](https://guairaca.com.br/);
  - Trabalho: desenvolvedor back-end no setor de Lojas Virtuais - [K13 Agência Web](https://k13.com.br/);
  - interesse: atualmente tenho mais interesse em projetos com VueJS e Laravel, porém não descartando possibilidade de novas experiências;
- - influência: sempre gostei de dos vários ramos que a área de tecnologia oferece, comecei com manutenção de computadores, até focar 
+ - influência: sempre gostei dos vários ramos que a área de tecnologia oferece, comecei com manutenção de computadores, até focar 
  mais no lado Software e querer entender como as coisas funcionam. Desde que comecei achei incrível o quanto podemos criar ferramentas incríveis 
  para as mais diversas necessidades. Não tenho dúvidas de que realmente é o que eu quero fazer com vontade e dedicação;
 ## Informações Github
