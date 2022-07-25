@@ -3,11 +3,11 @@ Busco sempre atualizá-lo com o que estou trabalhando/fazendo no momento, mesmo 
 ## Dados Pessoais
  - nome: Lucas de Souza;
  - idade: 19 anos;
- - formação: cursando último período Análise e Desenvolvimento de Sistemas - [Uniguairacá](https://guairaca.com.br/);
+ - formação: Análise e Desenvolvimento de Sistemas - [Uniguairacá](https://guairaca.com.br/) (2022);
  - Trabalho: desenvolvedor back-end no setor de Lojas Virtuais - [K13 Agência Web](https://k13.com.br/);
  - interesse: atualmente tenho mais interesse em projetos com VueJS e Laravel, porém não descartando possibilidade de novas experiências;
  - influência: sempre gostei dos vários ramos que a área de tecnologia oferece, comecei com manutenção de computadores, até focar 
- mais na área de Software e querer entender como as coisas funcionam. Desde que comecei achei incrível o quanto podemos criar ferramentas incríveis 
+ mais na área de Software e querer entender como as coisas funcionam. Desde que comecei achei incrível o quanto podemos criar ferramentas 
  para as mais diversas necessidades. Não tenho dúvidas de que realmente é o que eu quero fazer com vontade e dedicação;
 ## Informações Github
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
