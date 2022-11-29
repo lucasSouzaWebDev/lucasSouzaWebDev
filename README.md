@@ -1,5 +1,5 @@
 # Bem vindo ao meu perfil!
-Busco sempre atualizá-lo com o que estou trabalhando/fazendo no momento, mesmo com o rápido avanço que temos nessa área. Bom vamos começar pelo básico:
+Busco sempre atualizá-lo com o que estou trabalhando ou fazendo no momento, mesmo com o rápido avanço que temos nessa área. Bom vamos começar pelo básico:
 ## Dados Pessoais
  - nome: Lucas de Souza;
  - idade: 20 anos;
@@ -72,6 +72,7 @@ Busco sempre atualizá-lo com o que estou trabalhando/fazendo no momento, mesmo 
  <div style="display: inline_block">
  <a href="https://github.com/lucasSouzaWebDev">
   <img align="center" alt="Lucas-facebook" title="Facebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+  <img align="center" alt="Lucas-instagram" title="Instagram" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" /> 
   <img align="center" alt="Lucas-firebase" title="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
  </a>
 </div>
