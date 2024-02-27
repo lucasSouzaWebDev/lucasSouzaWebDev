@@ -50,6 +50,7 @@ Busco sempre atualizá-lo com o que estou trabalhando ou fazendo no momento, mes
   <img align="center" alt="Lucas-express" title="ExpressJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="Lucas-mongodb" title="Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Lucas-mysql" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Lucas-mysql" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
  </a>
 </div>
  
