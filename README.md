@@ -89,5 +89,3 @@ Busco sempre atualizá-lo com o que estou trabalhando ou fazendo no momento, mes
 ## Contato
   <a href="https://www.linkedin.com/in/lucas-de-souza-web-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:lucasdesouzadubena@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- 
-![Snake animation](https://github.com/lucasSouzaWebDev/lucasSouzaWebDev/blob/output/github-contribution-grid-snake.svg)
