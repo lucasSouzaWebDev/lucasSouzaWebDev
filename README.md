@@ -44,7 +44,7 @@ Busco sempre atualizá-lo com o que estou trabalhando ou fazendo no momento, mes
 <div style="display: inline_block">
  <a href="https://github.com/lucasSouzaWebDev">
   <img align="center" alt="Lucas-php" title="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Lucas-laravel" title="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img align="center" alt="Lucas-laravel" title="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img align="center" alt="Lucas-magento" title="Magento" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" />
   <img align="center" alt="Lucas-nodejs" title="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Lucas-express" title="ExpressJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
